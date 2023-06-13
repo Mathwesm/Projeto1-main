@@ -5,8 +5,8 @@
   }
   
   body {
-    background-color: #969696;
-    color: black;
+    background-color: white;
+    color: white;
 
     height: 100vh;
   }
@@ -30,7 +30,7 @@ header {
     border-radius: 8px;
     border: 1px solid #8B5CF6;
     background-color: transparent;
-    color: black;
+    color: white;
 
     display: flex;
     align-items: center;
